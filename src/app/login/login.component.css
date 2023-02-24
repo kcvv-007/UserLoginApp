@@ -1,0 +1,17 @@
+* {
+    font-family: open-sans , sans-serif;
+    
+}
+.login{
+    padding-top: 5px;
+    width:100%;
+}
+.WelcomeBanner{
+    font-weight: 600;
+    font-size: 24px;
+    padding-left:75px;
+}
+.logo{
+    height:10%;
+    padding-left: 50px;
+}

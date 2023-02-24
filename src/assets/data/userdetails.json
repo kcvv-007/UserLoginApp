@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "username": "Chandra",
+    "number": 9900262840,
+    "email": "chan@gmail.com" 
+   
+  },
+  {
+   "id": 1,
+    "username": "Surya",
+    "number": 9900362840,
+    "email": "surj@gmail.com" 
+    
+  },
+  {
+    "id": 2,
+    "username": "Prithvi",
+    "number": 9900462840,
+    "email": "prit@gmail.com" 
+    
+  },
+   {
+    "id": 3,
+    "username": "Aakash",
+    "number": 9900562840,
+    "email": "akah@gmail.com" 
+    
+  },
+   {
+    "id": 2,
+    "username": "Jala",
+    "number": 9900662840,
+    "email": "jal@gmail.com" 
+    
+  },
+   {
+    "id": 4,
+    "username": "Antariksh",
+    "number": 9900762840,
+    "email": "anant@gmail.com" 
+    
+  },
+   {
+    "id": 5,
+    "username": "Bhagirathi",
+    "number": 9900862840,
+    "email": "ganga@gmail.com" 
+    
+  },
+   {
+    "id": 6,
+    "username": "Yamuna",
+    "number": 9900892840,
+    "email": "yamuna@gmail.com" 
+    
+  },
+   {
+    "id": 7,
+    "username": "Padma",
+    "number": 9900289840,
+    "email": "padma@gmail.com" 
+    
+  }
+  
+]
